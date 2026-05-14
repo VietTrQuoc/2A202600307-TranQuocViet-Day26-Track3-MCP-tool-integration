@@ -1,0 +1,12 @@
+.venv/
+.pytest_tmp/
+.mypy_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+
+implementation/sqlite_lab.db
+implementation/.npm-cache/
+
+.DS_Store
+Thumbs.db
